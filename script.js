@@ -11,3 +11,4 @@ const name2 = ["abir", "foluk"];
 
 const result = [...name1, ...name2];
 console.log(result);
+console.log("hello");
